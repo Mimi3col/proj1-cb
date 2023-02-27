@@ -1,0 +1,22 @@
+:root {
+    background-color: #3c5b3c;
+}
+
+body {
+    background-color: #3c5b3c;
+    margin: 1px;
+    display: flex;
+    min-width: 300px;
+    min-height: 100vh;
+}
+
+td {
+    padding: 10px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.Card{
+    width: 280px;
+    height: 250px;
+}

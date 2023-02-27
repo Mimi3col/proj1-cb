@@ -1,0 +1,20 @@
+.Card{
+    background-color: #332f2f;
+    border-radius: 7px;
+    padding: 1%;
+    margin: 2%;
+    width: 100%;
+    text-align: center;
+    outline: 0px;
+}
+
+h1{
+    font-size: large;
+}
+h3{
+    font-size: medium;
+}
+img{
+    max-width: px;
+    max-height: 150px;
+}
