@@ -4,7 +4,7 @@ Submitted by: **Amanda Coleman**
 
 This web app: **Shows the next 12 playing card Tournaments in a community**
 
-Time spent: **5** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Notes
 
