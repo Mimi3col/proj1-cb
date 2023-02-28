@@ -15,7 +15,7 @@ function Container(){
             <Card name="Yu-Gi-Oh!" image="src/assets/yugioh.png"  date="03/08/23" />
         </tr>
         <tr>
-            <Card name="WareHammer Age of Sigmar: Champions" image="src/assets/warhammer.png" date="03/15/23" />
+            <Card name="WareHammer" image="src/assets/warhammer.png" date="03/15/23" />
             <td></td>
             <Card name="Final Fantasy" image="src/assets/finalFantasy.png" date="03/22/23" />
             <td></td>

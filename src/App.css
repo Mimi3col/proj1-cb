@@ -15,3 +15,8 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+h1{
+  font-size: xx-large;
+  text-shadow: 2px 2px 2px 2px;
+}
