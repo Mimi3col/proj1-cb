@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![My Video Walk Through](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwZDg5NzU2NzM4ZjcyZjk2YTRhYTFhNzZiMGEyMjVlMGM5NmE0MCZjdD1n/vIpq4Y5v16UjE4g1mW/giphy.gif)
 
 ## Notes
 
